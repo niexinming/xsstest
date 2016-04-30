@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\niexinming\Desktop\web</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/xsstest.dll">
+      <publishTime>08/08/2015 18:32:18</publishTime>
+    </File>
+    <File Include="createcode.aspx">
+      <publishTime>08/07/2015 23:36:12</publishTime>
+    </File>
+    <File Include="editcode.aspx">
+      <publishTime>08/08/2015 17:36:04</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>08/05/2015 21:37:17</publishTime>
+    </File>
+    <File Include="mycookie.aspx">
+      <publishTime>08/07/2015 23:47:19</publishTime>
+    </File>
+    <File Include="register.aspx">
+      <publishTime>08/07/2015 21:49:02</publishTime>
+    </File>
+    <File Include="success.html">
+      <publishTime>08/08/2015 17:48:29</publishTime>
+    </File>
+    <File Include="username.ashx">
+      <publishTime>08/05/2015 12:04:33</publishTime>
+    </File>
+    <File Include="viewcode.aspx">
+      <publishTime>08/07/2015 23:47:19</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/08/2015 00:15:15</publishTime>
+    </File>
+    <File Include="xss.ashx">
+      <publishTime>08/02/2015 18:06:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

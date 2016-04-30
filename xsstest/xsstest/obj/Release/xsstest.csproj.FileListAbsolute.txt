@@ -1,0 +1,5 @@
+C:\Users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\bin\xsstest.dll.config
+C:\Users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\bin\xsstest.dll
+C:\Users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\bin\xsstest.pdb
+C:\Users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\obj\Release\xsstest.dll
+C:\Users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\obj\Release\xsstest.pdb

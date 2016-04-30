@@ -1,0 +1,6 @@
+c:\users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\bin\xsstest.dll.config
+c:\users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\bin\xsstest.dll
+c:\users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\bin\xsstest.pdb
+c:\users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\obj\Debug\xsstest.dll
+c:\users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\obj\Debug\xsstest.pdb
+C:\Users\niexinming\documents\visual studio 2015\Projects\xsstest\xsstest\obj\Debug\xsstest.csprojResolveAssemblyReference.cache
